@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Site de Assinatura</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Bem-vindo ao Meu Site de Assinatura</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Início</a></li>
+                <li><a href="subscribe.html">Assine Agora</a></li>
+                <li><a href="content.html">Conteúdo Exclusivo</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <section>
+            <h2>Sobre o Site</h2>
+            <p>Este é um site de assinatura onde você pode acessar conteúdo exclusivo ao assinar nossos planos.</p>
+        </section>
+        <section>
+            <h2>Vantagens da Assinatura</h2>
+            <ul>
+                <li>Acesso a conteúdo exclusivo.</li>
+                <li>Atualizações regulares.</li>
+                <li>Suporte dedicado.</li>
+            </ul>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2024 Meu Site de Assinatura. Todos os direitos reservados.</p>
+    </footer>
+</body>
+</html>
